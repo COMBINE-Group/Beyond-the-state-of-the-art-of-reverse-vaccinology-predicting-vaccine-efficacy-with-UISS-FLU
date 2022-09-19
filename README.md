@@ -8,8 +8,8 @@ We used 100 patients virtual cohort to simulate the immune system dynamics in di
 
 2. Only multi-epitope vaccine  
 
-3. One injection of multi-epitope vaccine (with different dosages ranging from 5000 to 1500000 LP per ml) and influenza challenge at 40, 60 and 120 days using the best formulation.
+3. One injection of multi-epitope vaccine (with different dosages ranging from 5000 to 1500000 LP per ml) and influenza challenge at 40 (120 TS), 60 (180 TS) and 120 (360 TS) days using the best formulation.
 
 4. One injection of multi-epitope vaccine (with a dosage of 500000 LP per ml), a booster at 90 days (with same dosage) and then influenza challenge at 120 days using the best formulation.
 
-5. One injection of multi-epitope vaccine (with different dosages ranging from 5000 to 1500000 LP per ml) and influenza challenge at 40, 60 and 120 days using the worst formulation.
+5. One injection of multi-epitope vaccine (with different dosages ranging from 5000 to 1500000 LP per ml) and influenza challenge at 40 (120 TS), 60 (180 TS) and 120 (360 TS) days using the worst formulation.
