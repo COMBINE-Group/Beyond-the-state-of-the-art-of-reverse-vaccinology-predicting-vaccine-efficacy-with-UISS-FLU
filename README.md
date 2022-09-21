@@ -1,6 +1,6 @@
 # Beyond-the-state-of-the-art-of-reverse-vaccinology-predicting-vaccine-efficacy-with-UISS-FLU
 
-This repository contains all the plots produced using the Universal Immune System Simulator for Influenza (UISS-FLU).
+This repository contains all the plots (Supplementary Material) produced using the Universal Immune System Simulator for Influenza (UISS-FLU).
 
 We used 100 patients virtual cohort to simulate the immune system dynamics in different scenarios: 
 
